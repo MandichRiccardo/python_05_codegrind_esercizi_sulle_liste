@@ -22,6 +22,6 @@ print(dispari)
 # esercizio 8
 numeri.sort(reverse=True)
 print(numeri)
-#esercizio 9
+# esercizio 9
 count_2 = numeri.count(2)
 print(count_2)
